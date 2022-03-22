@@ -38,4 +38,4 @@ The color is yellow if reserved,it's red if its paid.
 
 
 ## License
-[GNU 3.0](https://github.com/omeraydemirr/tour-api/blob/c2638bb33e018fab441d078f2a95d4baab905b64/LICENSE)
+[GNU 3.0](https://github.com/omeraydemirr/reservation-app/blob/838c0894092005c574115fc684187bfb13c89658/LICENSE)
